@@ -3,6 +3,7 @@
     "description": "WordPress project template for Heroku",
     "keywords": [
         "wordpress",
+        "aws",
         "mysql",
         "php"
     ],
