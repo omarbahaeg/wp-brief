@@ -62,4 +62,12 @@
         "WORDPRESS_NONCE_SALT": {
             "description": "wp-config secret key",
             "generator": "secret"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/php"
+        }
+    ],
+    "stack": "heroku-22"
 }
