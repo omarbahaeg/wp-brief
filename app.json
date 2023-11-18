@@ -68,6 +68,5 @@
         {
             "url": "heroku/php"
         }
-    ],
-    "stack": "heroku-22"
+    ]
 }
