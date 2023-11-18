@@ -7,8 +7,8 @@
         "mysql",
         "php"
     ],
-    "website": "https://github.com/rory-ferguson/wordpress-docker-heroku",
-    "repository": "https://github.com/rory-ferguson/wordpress-docker-heroku",
+    "website": "https://github.com/omarbahaeg/wp-brief",
+    "repository": "https://github.com/omarbahaeg/wp-brief",
     "env": {
         "WP_ENVIRONMENT": {
             "description": "Is this app for development or production?",
